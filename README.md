@@ -51,6 +51,16 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 
 You can install Tensorflow using pip on command line, for CPU ```sudo pip install tensorflow``` and for GPU ```sudo pip install tensorflow-gpu```
 
+## Thunder-Extraction
+
+You can install Thunder-Extraction  using pip on command line\
+```pip install thunder-extraction```
+
+To import your NMF library from thunder by using following commands:
+
+```import thunder as td```\
+```from extraction import NMF```
+
 ## Data 
 
 Each file is a TIFF image, separated into folders, where each folder is a single sample. There are 19 training samples, and 9 testing samples. Each folder contains a variable number of images; sample 00.00 contains 3,024 images, while sample 00.01 contains 3,048. The image files themselves are numbered, e.g. image00000.tiff, but all the images in a single folder represent the same sample, just

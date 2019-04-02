@@ -20,4 +20,4 @@ def extract_zips():
 		os.remove('../data/'+filename)
 
 
-extract_zips()
+#extract_zips()

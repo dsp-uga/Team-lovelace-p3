@@ -38,11 +38,6 @@ Download and install Anaconda from (https://www.anaconda.com/distribution/#downl
 •	Once Anaconda is installed, open anaconda prompt using windows command Line.\
 •	Run ```conda env create -f environment.yml``` will install all packages required for all programs in this repository.
 
-### To start the environment 
-
-•	For PC like systems ```activate P2-theano```\
-•	For Unix like systems ```source activate P2-theano```
-
 ## Keras 
 
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. You can install keras using pip on command line ```sudo pip install keras```.

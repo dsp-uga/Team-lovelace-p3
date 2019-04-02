@@ -11,7 +11,7 @@
 ## B. Data Storage
  - [ ] **B.1 Data security**: Do we have a plan to protect and secure data (e.g., encryption at rest and in transit, access controls on internal users and third parties, access logs, and up-to-date software)?
  - [ ] **B.2 Right to be forgotten**: Do we have a mechanism through which an individual can request their personal information be removed?
- - [ ] **B.3 Data retention plan**: Is there a schedule or plan to delete the data after it is no longer needed?
+ - [x] **B.3 Data retention plan**: Is there a schedule or plan to delete the data after it is no longer needed?
 
 ## C. Analysis
  - [ ] **C.1 Missing perspectives**: Have we sought to address blindspots in the analysis through engagement with relevant stakeholders (e.g., checking assumptions and discussing implications with affected communities and subject matter experts)?
@@ -31,6 +31,6 @@
  - [ ] **E.1 Redress**: Have we discussed with our organization a plan for response if users are harmed by the results (e.g., how does the data science team evaluate these cases and update analysis and models to prevent future harm)?
  - [ ] **E.2 Roll back**: Is there a way to turn off or roll back the model in production if necessary?
  - [ ] **E.3 Concept drift**: Do we test and monitor for concept drift to ensure the model remains fair over time?
- - [ ] **E.4 Unintended use**: Have we taken steps to identify and prevent unintended uses and abuse of the model and do we have a plan to monitor these once the model is deployed?
+ - [x] **E.4 Unintended use**: Have we taken steps to identify and prevent unintended uses and abuse of the model and do we have a plan to monitor these once the model is deployed?
 
 *Data Science Ethics Checklist generated with [deon](http://deon.drivendata.org).*

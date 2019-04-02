@@ -46,7 +46,7 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 
 You can install Tensorflow using pip on command line, for CPU ```sudo pip install tensorflow``` and for GPU ```sudo pip install tensorflow-gpu```
 
-## Thunder-Extraction
+##  Setting up Thunder-Extraction
 
 You can install Thunder-Extraction  using pip on command line\
 ```pip install thunder-extraction```

@@ -62,6 +62,3 @@ neurons. However, while time is a dimension to the data, you may not need to exp
 ### References 
 
 - OpenCV Fourier Transform: https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
-- https://medium.com/coinmonks/learn-how-to-train-u-net-on-your-dataset-8e3f89fbd623
-- https://github.com/AliMorty/Markov-Random-Field-Project
-- https://github.com/zhixuhao/unet

@@ -33,11 +33,6 @@ Anaconda is a free and open-source distribution of the Python and R programming 
 
 Download and install Anaconda from (https://www.anaconda.com/distribution/#download-section). 
 
-### Running Environment
-
-•	Once Anaconda is installed, open anaconda prompt using windows command Line.\
-•	Run ```conda env create -f environment.yml``` will install all packages required for all programs in this repository.
-
 ## Keras 
 
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. You can install keras using pip on command line ```sudo pip install keras```.

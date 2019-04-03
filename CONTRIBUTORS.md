@@ -2,17 +2,19 @@
 (Ordered alphabetically)
 
 - **Denish Khetan** - [denishkhetan](https://github.com/denishkhetan)
-   - worked on Documentation 
-   - worked on readme and wiki
-   - 
+   - Worked on Documentation 
+   - Worked on readme and wiki
+  
    
 - **Jayant Parashar** - [Jayant1234](https://github.com/Jayant1234)
-    - binding and packaging of scripts
-    - worked on unets
-    - documentation and readme
+    - Binding and packaging of scripts
+    - Worked on unets
+    - Documentation and readme
    
 
 - **Vishakha Atole** - [vishcocity](https://github.com/vishcocity)
-   - worked on NMF
-   - experimented with NMF 
+   - Worked on Non-negative Matrix Factorization
+   - Experimented with Non-negative Matrix Factorization
+   - Accuracy and parameter tuning
+   - Contributed to documentation
    

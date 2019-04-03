@@ -18,11 +18,11 @@ def data_download():
 	from gs://uga-dsp/project3
 	"""
 	#if data folder does not exist, it is created
-	if not os.path.exists('../dataset/data'):
-		os.makedirs('../dataset/data')
+	if not os.path.exists('../data'):
+		os.makedirs('../data')
 
 	command = 'gsutil cp gs://uga-dsp/project3/*'+' ../data/'
 	os.system(command)
 
 
-data_download()
+#data_download()

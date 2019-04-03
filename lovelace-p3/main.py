@@ -22,10 +22,10 @@ def main():
 	args = parser.parse_args()
 
     #downloading the data as zip files
-	#dld.download_data()
+	dld.download_data()
 
     #calling extractor to extract the downloaded files
-	#zip.extract_zips()
+	zip.extract_zips()
 	
 	technique=args.technique
 	k_value=args.k

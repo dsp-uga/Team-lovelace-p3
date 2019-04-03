@@ -108,7 +108,11 @@ The final parameters with which we got maximum accuracy are listed below for eac
 | neurofinder04.00 |   100*100     |  5|      50       |     95     |   2.96528|
 | neurofinder04.01 |   100*100     |  5|      30       |     95     |   3.331  |
 
-Overall Accuracy 👍 3.16947  
+Overall Accuracy 👍 3.16947
+Avg Precision: 0.89772
+Avg Recall: 0.92168
+Avg Inclusion: 0.66563
+Avg Exclusion: 0.68444
 
 
 # Data Science Ethics Policy Checklist 

@@ -6,6 +6,8 @@ Denish Khetan\
 Jayant Parashar\
 Vishakha Atole
 
+See the [CONTRIBUTORS.md](https://github.com/dsp-uga/Team-thweatt-p2/blob/master/CONTRIBUTORS.md) file for details.
+
 ## Getting Started
 
 Follow the below steps for installation and to run the training and testing sets.
@@ -144,6 +146,3 @@ Details of every policy applied on this project/repo can be found [here](https:/
 ### References 
 [Thunder-extraction](https://github.com/thunder-project/thunder-extraction)\
 [Project 3 Guidebook](https://github.com/dsp-uga/sp19/blob/master/projects/p3/project3.pdf)
-[Mask to regions](https://dsp.stackexchange.com/questions/2516/counting-the-number-of-groups-of-1s-in-a-boolean-map-of-numpy-array)
-[Unet code](https://github.com/zhixuhao/unet)
-[Unet paper](https://arxiv.org/abs/1505.04597)

@@ -147,5 +147,5 @@ We have impletmented Data Science Ethics Policy Checklist which can be found [he
 Details of every policy applied on this project/repo can be found [here](https://github.com/dsp-uga/Team-lovelace-p3/wiki/Data-Science-Ethics-Policy)
 
 ### References 
-[Thunder-extraction](https://github.com/thunder-project/thunder-extraction)
+[Thunder-extraction](https://github.com/thunder-project/thunder-extraction)\
 [Project 3 Guidebook](https://github.com/dsp-uga/sp19/blob/master/projects/p3/project3.pdf)

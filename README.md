@@ -71,13 +71,13 @@ Alternatively, you can download the source code and simply run the following com
 
 List of command line arguments to pass to the program are as follows:
 
-  `--technique: technique to use to segment neurons out of NMF and Unets.
-  --k: number of blocks to estimate per block. 
-  --max_size: max_size maximum size of each region
-  --mix_size: min_size minimum size for each region
-  --max_iter: max_iter maximum number of algorithm iterations
-  --percentile: percentile value for thresholding (higher means more thresholding)
-  --overlap:  overlap value for determining whether to merge (higher means fewer merges) `
+  `--technique: technique to use to segment neurons out of NMF and Unets.`
+  `--k: number of blocks to estimate per block. `
+  `--max_size: max_size maximum size of each region`
+  `--mix_size: min_size minimum size for each region`
+  `--max_iter: max_iter maximum number of algorithm iterations`
+  `--percentile: percentile value for thresholding (higher means more thresholding)`
+  `--overlap:  overlap value for determining whether to merge (higher means fewer merges) `
 
 
 

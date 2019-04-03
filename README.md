@@ -59,8 +59,8 @@ To import your NMF library from thunder by using following commands:
 ## Data 
 
 Each file is a TIFF image, separated into folders, where each folder is a single sample. There are 19 training samples, and 9 testing samples. Each folder contains a variable number of images; sample 00.00 contains 3,024 images, while sample 00.01 contains 3,048. The image files themselves are numbered, e.g. image00000.tiff, but all the images in a single folder represent the same sample, just
-taken at different times with different calcium levels. The training labels exist at the sample level, so you’ll use all the images in a single folder to learn the locations of the neurons. Each folder will have a unique sample with unique numbers and positions of
-neurons. However, while time is a dimension to the data, you may not need to explicitly model it; you’re just interested in finding the active neurons in space.
+taken at different times with different calcium levels. The training labels exist at the sample level, so we used all the images in a single folder to learn the locations of the neurons. Each folder will have a unique sample with unique numbers and positions of
+neurons. However, while time is a dimension to the data, you may not need to explicitly model it; we’re just interested in finding the active neurons in space.
 
 ## Results 
 

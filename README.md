@@ -125,9 +125,8 @@ neurons.
  - [x] **B.2 Right to be forgotten**: Do we have a mechanism through which an individual can request their personal information be removed? \
  The data does not contain PII exposure. However, we reserve the right for every individual. They can share their index number with us and we can remove their data from our dataset. 
 
- Yes, we considered racial and gender bias. And we collected data from diverge backgrounds. 
-We have impletmented Data Science Ethics Policy Checklist which can be found [here](https://github.com/dsp-uga/Team-lovelace-p3/blob/master/ETHICS.md)\
-Details of every policy applied on this project/repo can be found [here](https://github.com/dsp-uga/Team-lovelace-p3/wiki/Data-Science-Ethics-Policy)
+The complete Data Science Ethics Policy Checklist can be found [here](https://github.com/dsp-uga/Team-lovelace-p3/blob/master/ETHICS.md)\
+
 
 ### References 
 [Thunder-extraction] (https://github.com/thunder-project/thunder-extraction)

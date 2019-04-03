@@ -51,7 +51,7 @@ To import your NMF library from thunder by using following commands:
 ```import thunder as td```\
 ```from extraction import NMF```
 
-# Usage
+## Usage
 ## Installing lovelace-p3 using pip
 ```python -m pip install --index-url https://test.pypi.org/simple/ --no-deps lovelace-p3-jayant12345```
 

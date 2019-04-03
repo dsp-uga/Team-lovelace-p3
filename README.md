@@ -6,7 +6,7 @@ Denish Khetan\
 Jayant Parashar\
 Vishakha Atole
 
-See the [CONTRIBUTORS.md](https://github.com/dsp-uga/Team-thweatt-p2/blob/master/CONTRIBUTORS.md) file for details.
+See the [CONTRIBUTORS.md](https://github.com/dsp-uga/Team-lovelace-p3/blob/master/CONTRIBUTORS.md) file for details.
 
 ## Getting Started
 

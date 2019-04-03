@@ -148,3 +148,5 @@ Details of every policy applied on this project/repo can be found [here](https:/
 ### References 
 [Thunder-extraction](https://github.com/thunder-project/thunder-extraction)\
 [Project 3 Guidebook](https://github.com/dsp-uga/sp19/blob/master/projects/p3/project3.pdf)
+[Team Canady](https://github.com/dsp-uga/Canady)
+

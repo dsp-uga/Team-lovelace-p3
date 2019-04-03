@@ -60,14 +60,14 @@ To import your NMF library from thunder by using following commands:
 ## Installing lovelace-p3 using pip
 ```python -m pip install --index-url https://test.pypi.org/simple/ --no-deps lovelace-p3-jayant12345```
 
-   In this case you can import the package and call different methods as follows: \
+   In this case you can import the package and call different methods as follows:\
 ```import lovelace-p3``` \
   `import downloader as dld`\
   `import zip_extractor as zip`\
   `import NMF_experiment as nmf`\
   `import unetpipeline as un`
   
-  Put all parameters in variables with k_value, max_size_value form. Or to run with intilialized parameters, keep the method empty. \
+  Put all parameters in variables with k_value, max_size_value form. Or to run with intilialized parameters, keep the method empty.\
   
   `nmf.NMF_experiments(k=k_value,max_size=max_size_value, min_size=min_size_value,percentile=percentile_value, max_iter=max_iter_value,     overlap=overlap_value)`
 

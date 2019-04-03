@@ -64,6 +64,12 @@ neurons. However, while time is a dimension to the data, you may not need to exp
 
 ## Results 
 
+## Data Science Ethics Policy Checklist 
+
+We have impletmented Data Science Ethics Policy Checklist. 
+We have selected B.3 in data storage consisting data retention plan as we do not plan to alter or delete any data in future. 
+
+
 ### References 
 
 - OpenCV Fourier Transform: https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html

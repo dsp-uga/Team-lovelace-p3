@@ -67,7 +67,7 @@ neurons.
 ## Data Science Ethics Policy Checklist 
 
 We have impletmented Data Science Ethics Policy Checklist which can be found [here](https://github.com/dsp-uga/Team-lovelace-p3/blob/master/ETHICS.md)\
-Details of every policy we selected can be found [here](https://github.com/dsp-uga/Team-lovelace-p3/wiki/Data-Science-Ethics-Policy)
+Details of every policy applied on this project/repo can be found [here](https://github.com/dsp-uga/Team-lovelace-p3/wiki/Data-Science-Ethics-Policy)
 
 ### References 
 

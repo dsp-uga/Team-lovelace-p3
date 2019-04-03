@@ -104,4 +104,4 @@ Details of every policy applied on this project/repo can be found [here](https:/
 
 ### References 
 
-- OpenCV Fourier Transform: https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
+Project 3 Guidebook

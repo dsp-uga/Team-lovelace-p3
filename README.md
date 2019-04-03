@@ -66,9 +66,8 @@ neurons.
 
 ## Data Science Ethics Policy Checklist 
 
-We have impletmented Data Science Ethics Policy Checklist. 
-We have selected B.3 in data storage consisting data retention plan as we do not plan to alter or delete any data in future. 
-
+We have impletmented Data Science Ethics Policy Checklist which can be found [here](https://github.com/dsp-uga/Team-lovelace-p3/blob/master/ETHICS.md) 
+Details of every policy we selected can be found [here](https://github.com/dsp-uga/Team-lovelace-p3/wiki/Data-Science-Ethics-Policy)
 
 ### References 
 

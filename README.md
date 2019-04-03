@@ -1,6 +1,6 @@
 # Team lovelace-p3
 
-# Team Members 
+## Team Members 
 
 Denish Khetan\
 Jayant Parashar\

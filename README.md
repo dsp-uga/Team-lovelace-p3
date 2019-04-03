@@ -89,7 +89,21 @@ Each file is a TIFF image, separated into folders, where each folder is a single
 taken at different times with different calcium levels. The training labels exist at the sample level, so we used all the images in a single folder to learn the locations of the neurons. Each folder will have a unique sample with unique numbers and positions of
 neurons. 
 
-## Results 
+## Results
+
+|     Dataset      |   Chunk_size  | k | max_iteration | Percentile | Accuracy |
+|------------------|---------------|---|---------------|------------|----------|
+| neurofinder00.00 |	50*50      | 10|      50       |     95     |   3      |
+| neurofinder00.01 |	60*60      |  3|      30       |     95     |   3.2    |
+| neurofinder01.00 |	50*50      | 10|      20       |     95     |   3.14115|
+| neurofinder01.01 |	50*50      |  5|      50       |     95     |   3.29171|
+| neurofinder02.00 |   100*100     |  5|      50       |     99     |   3.44819|
+| neurofinder02.01 |   100*100     |  5|      50       |     99     |   3.3    |
+| neurofinder03.00 |   100*100     | 10|      50       |     95     |   2.91006|
+| neurofinder04.00 |   100*100     |  5|      50       |     95     |   2.96528|
+| neurofinder04.01 |   100*100     |  5|      30       |     95     |   3.331  |
+
+Overall Accuracy 👍 3.16947  
 
 ## Data Science Ethics Policy Checklist 
 

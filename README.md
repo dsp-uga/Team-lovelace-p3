@@ -1,11 +1,5 @@
 # Team lovelace-p3
 
-# Team Members 
-
-Denish Khetan\
-Jayant Parashar\
-Vishakha Atole
-
 ## Getting Started
 
 Follow the below steps for installation and to run the training and testing sets.
@@ -101,6 +95,16 @@ neurons.
 
 We have impletmented Data Science Ethics Policy Checklist which can be found [here](https://github.com/dsp-uga/Team-lovelace-p3/blob/master/ETHICS.md)\
 Details of every policy applied on this project/repo can be found [here](https://github.com/dsp-uga/Team-lovelace-p3/wiki/Data-Science-Ethics-Policy)
+
+
+## Authors
+(Ordered alphabetically)
+
+- **Denish Khetan**
+- **Jayant Parashar**
+- **Vishakha Atole** 
+
+See the [CONTRIBUTORS.md](https://github.com/dsp-uga/Team-thweatt-p2/blob/master/CONTRIBUTORS.md) file for details.
 
 ### References 
 

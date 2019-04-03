@@ -56,6 +56,29 @@ To import your NMF library from thunder by using following commands:
 ```import thunder as td```\
 ```from extraction import NMF```
 
+# Usuage
+## Installing lovelace-p3 using pip
+```python -m pip install --index-url https://test.pypi.org/simple/ --no-deps lovelace-p3-jayant12345```
+In this case you can import the package and call different methods as follows: 
+>>>import lovelace-p3
+
+## Downloading the package
+Alternatively, you can download the source code and simply run the following command:
+
+`cd lovelace-p3`
+
+`python main.py`
+
+--technique: technique to use to segment neurons out of NMF and Unets
+--k: number of blocks to estimate per block
+--max_size: max_size maximum size of each region
+--mix_size: min_size minimum size for each region
+--max_iter: max_iter maximum number of algorithm iterations
+--percentile: percentile value for thresholding (higher means more thresholding)
+--overlap:  overlap value for determining whether to merge (higher means fewer merges) 
+
+
+
 ## Data 
 
 Each file is a TIFF image, separated into folders, where each folder is a single sample. There are 19 training samples, and 9 testing samples. Each folder contains a variable number of images; sample 00.00 contains 3,024 images, while sample 00.01 contains 3,048. The image files themselves are numbered, e.g. image00000.tiff, but all the images in a single folder represent the same sample, just

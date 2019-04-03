@@ -8,7 +8,7 @@ Vishakha Atole
 
 See the [CONTRIBUTORS.md](https://github.com/dsp-uga/Team-lovelace-p3/blob/master/CONTRIBUTORS.md) file for details.
 
-## Getting Started
+# Getting Started
 
 Follow the below steps for installation and to run the training and testing sets.
 
@@ -21,29 +21,27 @@ Follow the below steps for installation and to run the training and testing sets
 - [OpenCV](https://opencv.org/) - Open-source library aimed for real-time Computer Vision
 - [Thunder NMF Extraction](https://github.com/dsp-uga/Canady) - NMF Feature Extraction 
 
-## Problem Statement 
-
-## Neuron Finding 
+## Problem Statement :Neuron Finding 
 
 Goal is to develop an image segmentation pipeline that identifies as many of the neurons present as possible, as accurately as possible.
 
 ## Installation
 
-## Anaconda 
+### Anaconda 
 
 Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment.
 
 Download and install Anaconda from (https://www.anaconda.com/distribution/#download-section). 
 
-## Keras 
+### Keras 
 
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. You can install keras using pip on command line ```sudo pip install keras```.
 
-## Tensorflow 
+### Tensorflow 
 
 You can install Tensorflow using pip on command line, for CPU ```sudo pip install tensorflow``` and for GPU ```sudo pip install tensorflow-gpu```
 
-##  Setting up Thunder-Extraction
+###  Setting up Thunder-Extraction
 
 You can install Thunder-Extraction  using pip on command line\
 ```pip install thunder-extraction```
@@ -53,7 +51,7 @@ To import your NMF library from thunder by using following commands:
 ```import thunder as td```\
 ```from extraction import NMF```
 
-# Usuage
+# Usage
 ## Installing lovelace-p3 using pip
 ```python -m pip install --index-url https://test.pypi.org/simple/ --no-deps lovelace-p3-jayant12345```
 

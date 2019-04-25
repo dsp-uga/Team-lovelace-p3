@@ -17,4 +17,5 @@
    - Experimented with Non-negative Matrix Factorization
    - Accuracy and parameter tuning
    - Contributed to documentation
+   - Managed the Projects tab
    
